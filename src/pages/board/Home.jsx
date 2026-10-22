@@ -4,7 +4,7 @@ import "./Home.css";
 const Home =()=>{
     return (
       <div className="Home">
-       <h1>전체게시물 LIST</h1>
+       <h1>전체게시물 LIST - 아무거니~~</h1>
         {/* BoardItem   추가.. */}
       </div>
     )
